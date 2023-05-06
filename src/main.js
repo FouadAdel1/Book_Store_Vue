@@ -1,0 +1,11 @@
+import { createApp } from "vue";
+import App from "./App.vue";
+import Dynamic from "@/Dynamic.vue";
+import OnlineShopping from "./OnlinShopping.vue";
+import { createPinia } from "pinia";
+import router from "./routes/router";
+const pinia = createPinia();
+const app = createApp(OnlineShopping);
+app.use(router);
+app.use(pinia);
+app.mount("#app");

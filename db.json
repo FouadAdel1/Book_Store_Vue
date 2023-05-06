@@ -1,0 +1,112 @@
+{
+  "books": [
+    {
+      "isbn": "9780747532743",
+      "name": "Harry Potter",
+      "category": "Fantasy",
+      "image": "https://m.media-amazon.com/images/I/51UNGhBV7OL._SX330_BO1,204,203,200_.jpg",
+      "pages": 223,
+      "author": "J.K. Rowling",
+      "price": 12.99
+    },
+    {
+      "isbn": "9780142424179",
+      "name": "The Fault in Our Stars",
+      "category": "Young Adult",
+      "image": "https://m.media-amazon.com/images/I/410Dh43MRXL._SX258_BO1,204,203,200_QL70_ML2_.jpg",
+      "pages": 318,
+      "author": "John Green",
+      "price": 10.99
+    },
+    {
+      "isbn": "9780062315007",
+      "name": "The Martian",
+      "category": "Science Fiction",
+      "image": "https://m.media-amazon.com/images/I/4164GkhDBXL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+      "pages": 37,
+      "author": "Andy Weir",
+      "price": 9.99
+    },
+    {
+      "isbn": "9780345472328",
+      "name": "A Game of Thrones",
+      "category": "Fantasy",
+      "image": "https://m.media-amazon.com/images/I/81VqkhMFpuL._AC_UY218_.jpg",
+      "pages": 848,
+      "author": "George R.R. Martin",
+      "price": 15.99
+    },
+    {
+      "isbn": "9780765326355",
+      "name": "Leviathan Wakes",
+      "category": "Science Fiction",
+      "image": "https://m.media-amazon.com/images/I/91VF+qt4B2L._AC_UY218_.jpg",
+      "pages": 592,
+      "author": "James S.A. Corey",
+      "price": 11.99
+    },
+    {
+      "isbn": "9781501173219",
+      "name": "Astrophysics",
+      "category": "Science",
+      "image": "https://m.media-amazon.com/images/I/A1PnnHu0ZXL._AC_UY218_.jpg",
+      "pages": 24,
+      "author": "Neil deGrasse Tyson",
+      "price": 8.99
+    },
+    {
+      "isbn": "9781984801258",
+      "name": "Becoming",
+      "category": "Biography",
+      "image": "https://m.media-amazon.com/images/I/71Wao6vTxlL._AC_UY218_.jpg",
+      "pages": 448,
+      "author": "Michelle Obama",
+      "price": 18.99
+    },
+    {
+      "isbn": "9780385732550",
+      "name": "The Book Thief",
+      "category": "Historical Fiction",
+      "image": "https://m.media-amazon.com/images/I/71H52+sSb4L._AC_UY218_.jpg",
+      "pages": 592,
+      "author": "Markus Zusak",
+      "price": 9.99
+    },
+    {
+      "isbn": "9780316013697",
+      "name": "The Hunger Games",
+      "category": "Science Fiction",
+      "image": "https://m.media-amazon.com/images/I/81gExM+-XtL._AC_UY218_.jpg",
+      "pages": 384,
+      "author": "Suzanne Collins",
+      "price": 10.99
+    },
+    {
+      "isbn": "9780545010221",
+      "name": "Harry Potter and the Deathly",
+      "category": "Fantasy",
+      "image": "https://m.media-amazon.com/images/I/91WJ0q27ddL._AC_UY218_.jpg",
+      "pages": 784,
+      "author": "J.K. Rowling",
+      "price": 14.99
+    },
+    {
+      "isbn": "9780140283334",
+      "name": "To Kill a Mockingbird",
+      "category": "Classic Literature",
+      "image": "https://m.media-amazon.com/images/I/91SpClgnqDL._AC_UY218_.jpg",
+      "pages": 336,
+      "author": "Harper Lee",
+      "price": 8.99
+    },
+    {
+      "isbn": "9780374528379",
+      "name": "The Kite Runner",
+      "category": "Historical Fiction",
+      "image": "https://m.media-amazon.com/images/I/81QSukPYvML._AC_UY218_.jpg",
+      "pages": 400,
+      "author": "Khaled Hosseini",
+      "price": 11.99
+    }
+  ]
+}
