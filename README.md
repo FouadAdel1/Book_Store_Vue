@@ -1,19 +1,16 @@
-# my-app
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Project Title
+[Book Store]
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Project Description
+[E commrece for small project book]
+
+Getting Started
+Prerequisites
+Node.js (version 12 or higher)
+NPM (version 6 or higher)
+Installation
+Clone the repository
+Run npm install in the project directory to install all the required dependencies.
